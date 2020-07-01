@@ -1,6 +1,9 @@
 # adaptive_resonance
 A PyPI python module for adaptive resonance theory (ART).
 
+| **Documentation**  | **Build Status** | **Coverage** |
+|:------------------:|:----------------:|:------------:|
+
 This package is developed and maintained by [Sasha Petrenko](https://github.com/AP6YC) with sponsorship by the [Applied Computationa Intelligence Laboratory (ACIL)](https://acil.mst.edu/).
 
 # Leveraged Repositories
@@ -30,3 +33,4 @@ https://www.researchgate.net/publication/239525861_Datasets_package
 
 4. Clustering basic benchmark:
 http://cs.uef.fi/sipu/datasets
+
